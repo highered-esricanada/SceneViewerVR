@@ -1,6 +1,8 @@
 ## Scene Viewer VR
 The Scene Viewer VR application lets users view ArcGIS Online hosted web scenes with the Unity game engine and in virtual reality.
 
+![intro](/intro.png)
+
 ## Features
 The following web scene features have been included in the app:
 - Global and local scenes
