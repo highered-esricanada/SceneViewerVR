@@ -56,7 +56,6 @@ The following web scenes are included when you download the app:
 |Mountain Biking in Bavaria|[1b787e0335af4929a4a5267ebfa58a20](https://www.arcgis.com/home/item.html?id=1b787e0335af4929a4a5267ebfa58a20)|
 |Visualize New Developments|[19dcff93eeb64f208d09d328656dd492](https://www.arcgis.com/home/item.html?id=19dcff93eeb64f208d09d328656dd492)|
 |Everest 1953 Sagarmatha Chomolungma|[cb67c8d220ef44b7a359d207f2df2fd4](https://www.arcgis.com/home/item.html?id=cb67c8d220ef44b7a359d207f2df2fd4)|
-|Digital Twin - 3D-mesh Utrecht |[5a922cb6a0db458389c61dc3e2ab1234](https://www.arcgis.com/home/item.html?id=5a922cb6a0db458389c61dc3e2ab1234)|
 |Montreal, Canada Scene|[63a16e0c9f364d0fab9d55f40bf71771](https://www.arcgis.com/home/item.html?id=63a16e0c9f364d0fab9d55f40bf71771)|
 |Copy of Reality Mesh Examples by bconnolly_IVT|[aae50a6ccf5c484a917750897a1d59a9](https://www.arcgis.com/home/item.html?id=aae50a6ccf5c484a917750897a1d59a9)|
 |Mountains|[9c6384f5003a4008b1819c212c5a9105](https://www.arcgis.com/home/item.html?id=9c6384f5003a4008b1819c212c5a9105)|
