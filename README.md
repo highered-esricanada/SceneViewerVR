@@ -46,7 +46,7 @@ You can also change the time of day or year in the Options menu:
 Select the Controls Help button to see the headset or keyboard/mouse controls.
 
 ### Updating the application's web scenes
-The application currently works with publicly accessible web scenes. These web scenes are defined in a scenes.json file in the "global view_Data\StreamingAssets" directory. Follow the format of specifying web scene ids and the scale. The scale property is used when in VR. For example, a scale of 5 will set the model scale to 1:5. Objects in the scene will be one fifth of the real-world size.  
+The application currently works with publicly accessible web scenes. These web scenes are defined in a scenes.json file in the "Scene Viewer VR_Data\StreamingAssets" directory. Follow the format of specifying web scene ids and the scale. The scale property is used when in VR. For example, a scale of 5 will set the model scale to 1:5. Objects in the scene will be one fifth of the real-world size.  
 
 The following web scenes are included when you download the app:
 
@@ -72,7 +72,7 @@ The following web scenes are included when you download the app:
 
 ### Cannot see the globe when launching the app
 1. Check that your internet connection is working, followed by checking the [ArcGIS Online Health Dashboard](https://status.arcgis.com/) for any service disruptions on ArcGIS Online.
-1. If you are still unable to see the globe, there may be an issue with the API key. You can create your own API key [here](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/tutorials/create-and-manage-an-api-key/) and copy it into the apikey.txt file in the "global view_Data\StreamingAssets" directory.
+1. If you are still unable to see the globe, there may be an issue with the API key. You can create your own API key [here](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/tutorials/create-and-manage-an-api-key/) and copy it into the apikey.txt file in the "Scene Viewer VR_Data\StreamingAssets" directory.
 
 ### VR Controllers do not move in the app
 1. Make sure the Unity preview windows that appears on your desktop has focus by clicking on the window.
