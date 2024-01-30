@@ -27,7 +27,7 @@ The app was created using the [ArcGIS Maps SDK for Unity](https://developers.arc
 ### Getting Started
 1. Download the application [here](https://github.com/highered-esricanada/SceneViewerVR/releases/download/1.0/Scene.Viewer.VR.zip).
 1. Unzip to a local folder on your machine.
-1. Double click on the Scene Viewer.exe file.
+1. Double click on the Scene Viewer VR.exe file.
 1. If you are using a headset, press the menu button on the controller to toggle the display of the main menu (You can press the left thumbstick in to show tooltips on the controllers to identify the menu button). You can press the escape key on the keyboard if you are not using a headset.
 1. Use the ray coming out of the right controller and the right trigger button to select items on the menu. You can use your mouse if you are not using a headset to select menu items.
 
